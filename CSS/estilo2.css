@@ -1,0 +1,9 @@
+p, ol, h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 20px;
+}
+footer{
+
+    color: darkgrey;
+    padding: 5px;
+    text-align: center;
+}
